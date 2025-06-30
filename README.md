@@ -33,7 +33,6 @@ This project is entirely written in **C++** using **File Handling** and **Doubly
 | **Terminal UI** | Text-based interactive menu |
 
 ---
-
 ## 📁 File Structure
 
 .
@@ -41,7 +40,6 @@ This project is entirely written in **C++** using **File Handling** and **Doubly
 ├── MyPlayList.txt # Stores the playlist (auto-created)
 ├── temp.txt # Temporary file for delete operations
 └── app.png # UI Screenshot (add manually)
-
 
 ---
 
