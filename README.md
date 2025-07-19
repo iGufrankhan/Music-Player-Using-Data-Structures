@@ -32,12 +32,12 @@ This project is entirely written in **C++** using **File Handling** and **Doubly
 | **DSA** | Doubly Linked List, Stack |
 | **Terminal UI** | Text-based interactive menu |
 
----
- ## 📁 File Structure ``` . ├── MusicPlayer.cpp # Main program file 
- ├── MyPlayList.txt # Stores the playlist (auto-created)
- ├── temp.txt # Temporary file for delete operations 
- └── app.png # UI Screenshot (add manually) ``` 
----
+📁 File Structure
+├── MusicPlayer.cpp    # Main program file
+├── MyPlayList.txt     # Stores the playlist (auto-created)
+├── temp.txt           # Temporary file for delete operations
+└── app.png            # UI Screenshot (add manually)
+
 
 ## 🛠️ How to Run
 
