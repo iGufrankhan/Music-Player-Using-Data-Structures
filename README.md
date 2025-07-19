@@ -31,13 +31,19 @@ This project is entirely written in **C++** using **File Handling** and **Doubly
 | **File I/O** | To save and load songs |
 | **DSA** | Doubly Linked List, Stack |
 | **Terminal UI** | Text-based interactive menu |
----
- ### 📁 File Structure
+
+
+### 📁 File Structure
+
+```
+📁 File Structure
 ├── MusicPlayer.cpp    # Main program file
 ├── MyPlayList.txt     # Stores the playlist (auto-created)
 ├── temp.txt           # Temporary file for delete operations
 └── app.png            # UI Screenshot (add manually)
----
+```
+
+
 
 ## 🛠️ How to Run
 
